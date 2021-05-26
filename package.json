@@ -1,0 +1,16 @@
+{
+  "name": "nagswebsitetest",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "index.js",
+  "scripts": {
+    "run": "nodemon"
+  },
+  "author": "nagol12344",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.7",
+    "pug": "^3.0.2"
+  }
+}

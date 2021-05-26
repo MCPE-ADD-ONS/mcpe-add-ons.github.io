@@ -1,0 +1,33 @@
+body {
+	background-color: #292726;
+}
+
+body {
+	color: #fceae1;
+	font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+button {
+	background-color: #4CAF50; /* Green */
+	border: none;
+	color: #ffffff;
+	padding: 15px 32px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 16px;
+  }
+
+ #home {
+    position:absolute;
+    transition: .5s ease;
+    top: 1%;
+    left: 32%;
+}
+
+#info {
+    position:absolute;
+    transition: .5s ease;
+    top: 1%;
+    left: 47%;
+}
